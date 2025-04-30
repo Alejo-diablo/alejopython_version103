@@ -35,6 +35,10 @@ print("=================modificacion de la rama alejandro cerquin 001 =======")
 
 x =9
 y = 10
+z = 20
 
 def sumarnumero(x,y):
     return x + y
+
+def restarnumero(x,z):
+    return x - z
