@@ -15,7 +15,7 @@
 
 #ejemplos de conjuntos 
 
-numeros_1 = {1,2,3,4,5,6}
+numeros_1 = {1,2,3,4,5,6,8}
 
 numeros_2 = {4,5,6,7,8}
 
