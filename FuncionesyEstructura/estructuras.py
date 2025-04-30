@@ -35,7 +35,7 @@ for punto in coordenadas:
     '''
 
 #listar 
-datos =[15,13,9,True,False, "Maria ROsario",14,15,13,9,True,False, "Maria ROsario",14,15,13,9,True,False, "Maria ROsario","oso"]
+datos =[15,13,9,True,False, "Maria ROsario",14,15,13,9,True,False, "Maria ROsario",14,15,13,9,True,False, "Maria ROsario","Alejandro"]
 
 #print(datos[1])
 #print(datos[4])
