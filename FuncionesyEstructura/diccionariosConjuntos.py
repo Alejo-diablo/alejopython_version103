@@ -30,3 +30,11 @@ print(interseccion)
 
 #eliminar elementos
 #numeros_1.dis(4)
+
+print("=================modificacion de la rama alejandro cerquin 001 =======")
+
+x =9
+y = 10
+
+def sumarnumero(x,y):
+    return x + y
